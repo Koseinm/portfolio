@@ -1,0 +1,18 @@
+SEIN MIN
+React Native CLI & PHP/MySQL Developer
+Email: seinmin25@gmail.com
+Location: Myanmar / Thailand
+
+CORE SKILLS
+- React Native CLI, TypeScript, Zustand, React Navigation
+- Android media library, background playback, downloads and offline storage
+- PHP, MySQL, REST API, IIS deployment and responsive admin dashboards
+- Authentication, subscription management and one-account/one-device workflows
+- Git, Android builds, debugging and project maintenance
+
+SELECTED PROJECT
+March Mandalar Music Platform
+- Online streaming, local songs, downloads, albums, artists and folders
+- Favorites, recently played, search, player queue, shuffle and themes
+- Login/register, profile, subscription status and device binding
+- PHP/MySQL admin dashboard for user and song management
